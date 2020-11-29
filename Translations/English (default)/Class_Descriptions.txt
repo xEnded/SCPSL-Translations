@@ -1,5 +1,5 @@
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold left click+W and aim at your enemy to kill.\nYou are faster at lower HP.</color>
-Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
+Escape from the facility.\nCooperate with the <color=#008F1E>Chaos Insurgency.</color>\nAvoid other teams.
 You will respawn soon.
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.

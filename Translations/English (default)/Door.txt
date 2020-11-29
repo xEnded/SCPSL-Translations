@@ -5,7 +5,7 @@
 <color=#EE0000FF>LOCKED DOWN</color>
 <color=#00C0EEFF>KEYCARD NEEDED</color>
 <color=#00EE00FF>ACCESS GRANTED</color>
-<color=#EE0000>ACCESS DENIED</color>
+<color=#EE0000FF>ACCESS DENIED</color>
 <color=#EE7900FF>PLEASE PASS</color>
 <color=#00EE00FF>EVACUATE</color>
 <color=#EE7900FF>CLOSING</color>

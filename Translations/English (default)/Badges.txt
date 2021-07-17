@@ -48,3 +48,4 @@ Northwood Feedback Coordinator
 Northwood Verification Supervisor
 SCP:SL Official Server Supervisor
 Northwood Feedback Supervisor
+Northwood Verification Manager

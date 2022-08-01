@@ -90,3 +90,4 @@ Piscar Hotbar ao Spawnar
 Oclusão de Ambiente
 Luzes Volumétricas
 Bloom
+Legendas

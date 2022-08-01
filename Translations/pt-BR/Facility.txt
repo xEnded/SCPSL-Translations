@@ -38,3 +38,7 @@ Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos na instala�
 Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem das informações que você forneceu.
 ROUND INICIA EM: <color=yellow>{0}</color>s
 ROUND ESTÁ <color=#FF5050>PAUSADO</color>
+SENTIDO DE APONTAMENTO. REDUÇÃO
+Pressione [tecla] para cancelar o arremesso.
+Alternar anúncios
+Silenciar o bate-papo do espectador

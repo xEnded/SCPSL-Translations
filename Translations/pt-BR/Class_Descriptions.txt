@@ -16,3 +16,6 @@ Siga as tarefas para concluir seu objetivo.
 Ajude os <color=#FFFF7CFF>Cientistas</color> A escapar\nCoopere com os <color=#0096FF>MTFs</color>\nNeutralize outros sujeitos.
 Mate todos\nNão deixe ninguém escapar.\nCoopere com os outros <color=#f00>SCPs</color>
 Mate todos\nNão deixe ninguém escapar.\nCoopere com os outros <color=#f00>SCPs</color>
+Ajude <color=#FF8E00>Pessoal Classe-D</color> a escapar.\nNeutralize outros sujeitos.
+Ajude <color=#FF8E00>Pessoal Classe D</color> a escapar.\nNeutralize outros sujeitos.
+Ajude <color=#FF8E00>Pessoal Classe D</color> a escapar.\nNeutralize outros sujeitos.

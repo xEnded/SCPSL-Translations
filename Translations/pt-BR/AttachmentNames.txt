@@ -42,3 +42,5 @@ Cano Curto~Versão menor do cano padrão, usada para melhorar a velocidade de ma
 Entrangulador~Aumenta o raio de dispersão, mas melhora a consistência do padrão.
 Cano Estendido~Reduz um pouco o raio de dispersão, mas aumenta o peso e comprimento da arma de fogo.
 Sem Coronha~Configurações curtas vem com grande mobilidade,\n mas remover a coronha de um rifle deixa impossível de mirar com segurança.
+Sistema de disparo único ~ sistema padrão. Um puxão de gatilho leva a uma descarga.
+Double-Shot System ~ Mecanismo de gatilho modificado que aciona os dois gatilhos com um único puxão.

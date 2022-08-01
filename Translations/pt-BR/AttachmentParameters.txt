@@ -17,3 +17,5 @@ Tempo para recarregar
 Velocidade para mirar
 Propagação das balas
 Consistência do padrão
+Número de Projeteis
+Velocidade de recarregamento

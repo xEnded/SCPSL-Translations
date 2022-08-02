@@ -39,6 +39,6 @@ Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem da
 ROUND INICIA EM: <color=yellow>{0}</color>s
 ROUND ESTÁ <color=#FF5050>PAUSADO</color>
 SENTIDO DE APONTAMENTO. REDUÇÃO
-Pressione [tecla] para cancelar o arremesso.
+Pressione [key] para cancelar o arremesso.
 Alternar anúncios
 Silenciar o bate-papo do espectador

@@ -5,7 +5,7 @@ PROCEDIMENTO DE RECONTENÇÃO\nDO SCP-106
 Inverter Eixo-Y
 RESUMO
 Cancelar
-I N V E N T O R Y
+I N V E N T Á R I O
 BRILHO
 OPÇÕES
 DESCONECTAR
@@ -38,7 +38,7 @@ Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos na instala�
 Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem das informações que você forneceu.
 ROUND INICIA EM: <color=yellow>{0}</color>s
 ROUND ESTÁ <color=#FF5050>PAUSADO</color>
-SENTIDO DE APONTAMENTO. REDUÇÃO
+REDUÇÃO DA SENS. MIRANDO
 Pressione [key] para cancelar o arremesso.
-Alternar anúncios
+Alternar MIRAR
 Silenciar o bate-papo do espectador

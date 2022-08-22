@@ -84,15 +84,15 @@ Si se activa, tu estado se mostrará en Discord/Steam.
 MOSTRAR VALOR EXACTO DE SALUD
 Muestra la cantidad de salud exacta, en vez de un porcentaje.
 SALA PÚBLICA
-Si se activa, tus amigos de Steam podrán entrar sin permiso.
+Si se activa, tus amigos de Steam podrán entrar a tu partida sin permiso.
 OCULTAR IP
 Si se activa, no se mostrarán las IP en la consola del cliente.
-ALTERNAR BÚSQUEDA
-Recoger objetos no necesitará que mantengas una tecla pulsada; pulsa de nuevo para cancelar.
+ALTERNAR RECOLECCIÓN
+Al recoger objetos no necesitarás  mantener una tecla pulsada; pulsa de nuevo para cancelar.
 Aplica sombras suaves a las esquinas y áreas ajustadas para dar más sensación de profundidad.
 Le da al ambiente más profundidad, tiene un coste de rendimiento más elevado.
 Le da a la iluminación más profundidad aplicando brillo basado en la intensidad.
-Elige si quieres que se muestren los subtítulos para los anuncios de cassie.
+Activa subtítulos para los anuncios de cassie.
 Hace parpadear el icono del juego de la barra de herramientas cuando reapareces y el juego no está en primer plano.
 Suaviza las líneas y elimina las distorsiones visuales.
 Sincroniza los frames del juego con los de tu monitor.

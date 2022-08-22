@@ -3,7 +3,7 @@ Correr:Aumenta tu velocidad de movimiento, pero también aumenta el sonido que h
 Sigilo:Tu movimiento se hace más silencioso a costa de velocidad de movimiento.
 Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo. Usa clic derecho para soltar.
 Desarmado:No tienes nada. Encuentra algo, lo que sea, y rápido.
-Tarjeta de acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
+Tarjeta de Acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
 Equipamiento estándar:Tienes en el inventario un rifle, granadas, una radio y una tarjeta de acceso.
 Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (tarjeta de acceso) y un botiquín.
 Velocidad vertiginosa:No importa donde se escondan, los encontraras en menos de lo que canta un gallo y te verán por menos tiempo. Duplica tu velocidad de movimiento y la distancia de parpadeo con coste a tu letalidad. Permanece hasta poco después de ser visto o hasta que sea cancelado manualmente.
@@ -12,7 +12,7 @@ Portal:Colocas o te teletransportas a tu portal, el cual se representa con una m
 Corrosión:Puedes traspasar puertas al caminar a través ellas.
 Canción del Cisne: Prácticamente no recibes daño de ninguna fuente, excepto de explosivos y electricidad, pero puedes ser recontenido por un sacrificio humano en tu cámara.
 Dimensión de Bolsillo:Capturas a un humano al cual teletransportas a tu Dimensión de Bolsillo, la cual los mata rápida y dolorosamente. Los humanos capturados deben elegir la salida correcta o elegir la muerte.
-Scopophobia:Eres dócil y tranquilo la mayor parte del tiempo, pero no te gusta que te ataquen y mucho menos que te vean la cara. Una vez que te han visto la cara o has sido herido, sofoca tu ira asesinando a tus agresores. Persígueles antes de que tu ira desaparezca. Cada agresor aumenta tu AHP mientras estés en estado de ira.
+Escopofobia:Eres dócil y tranquilo la mayor parte del tiempo, pero no te gusta que te ataquen y mucho menos que te vean la cara. Una vez que te han visto la cara o has sido herido, sofoca tu ira asesinando a tus agresores. Persígueles antes de que tu ira desaparezca. Cada agresor aumenta tu AHP mientras estés en estado de ira.
 Intenta no llorar (Dócil): Es muy difícil. Apoyarte en una puerta ayuda; te vuelves silencioso mientras estás apoyado contra una puerta intentando calmarte... o esperando a alguien...
 Ataque cuerpo a cuerpo (Ira):Normalmente te controlas. Pero cuando te provocan... Destrozas todo a tu paso en tu búsqueda de quien te ha hecho daño. Destrozas puertas y carne por igual.
 Ultrasensitivo:No puedes ver humanos hasta que corren, te golpean o disparan un arma cerca de ti.
@@ -27,5 +27,5 @@ Sobrecarga Tesla:Puedes activar un tesla por 50 de EA, lo que provocará grandes
 Apagón:Al llegar al Nivel de Acceso 2, puedes interactuar con algunas salas para bloquear todas las puertas y apagar todas las luces de dicha sala. Mientras las luces estén apagadas, los humanos no podrán ver a SCP-173.
 Virtualmente indestructible: Cinco generadores aparecen en la zona de contención pesada, si todos los generadores son activados serás recontenido. Los generadores pueden ser desactivados pulsando el botón rojo de "CANCELAR".
 Hormigón armado:Acepte sus miradas de admiración y defiéndase de los vándalos. Tienes una resistencia innata contra las armas de fuego. Las armas de baja penetración no te harán ni cosquillas en comparación con las armas que tengan perforación.
-Carga (Furia):Ciérrales las vías de escape - se lo merecen. Corres a frenéticamente, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.
+Embestida (Furia):Ciérrales las vías de escape - se lo merecen. Corres a frenéticamente, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.
 Rabieta:Haga que conozcan su furia. Crea un charco de suciedad a tus pies que mancha e inhibe en gran medida la movilidad de los humanos que lo intentan cruzar. Matar humanos manchados recuperarà una parte de tu Escudo Hume

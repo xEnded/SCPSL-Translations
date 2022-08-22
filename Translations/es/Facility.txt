@@ -13,7 +13,7 @@ SILO ALFA DESHABILITADO
 ACCESO DENEGADO
 CHAT DE VOZ
 INVENTARIO SOBRECARGADO
-SENSIBILIDAD DEL RATÓN
+SENSIBILIDAD DEL MOUSE
 HACKEANDO...
 RECOGIENDO...
 Incrementar el brillo <b>empeora la jugabilidad</b> del juego.\nTrate de ajustarlo al mínimo posible.\n<b>Se recomienda dejar el nivel por defecto.</b>
@@ -28,7 +28,7 @@ CONTINUAR
 VOLUMEN PRINCIPAL
 Conectado
 Escapaste como Científico y te uniste a las unidades del MTF.
-Escapaste como Clase-D y te uniste a Insurgentes del Caos.
+Escapaste como Clase-D y te uniste a la Insurgencia del Caos.
 TÚ ERES
 Huiste en: [escape_minutes] minutos y [escape_seconds] segundos
 Espera [time] para poder usar [item] de nuevo.

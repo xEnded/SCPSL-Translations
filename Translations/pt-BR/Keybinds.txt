@@ -8,9 +8,9 @@ Correr
 Chat de voz
 Esgueirar-se
 Mover para Frente
-Mover para trás
-Mover para a esquerda
-Mover para a direita
+Mover para Trás
+Mover para Esquerda
+Mover para Direita
 Lista de jogadores
 Informações do personagem
 Administrador remoto
@@ -22,9 +22,9 @@ Tecla de atalho do cartão-chave
 Inspecionar
 Engatilhar Revólver
 Lançar Item
-Tecla de atalho da arma primária
-Tecla de atalho de arma secundária
-Tecla de atalho médica
-Esconder Gui
-Alternar Neblina em Noclip
-Tecla de atalho de granada
+Tecla de atalho da Arma Primária
+Tecla de atalho de Arma Secundária
+Tecla de atalho Médica
+Esconder GUI
+Alternar Neblina do Noclip
+Tecla de atalho de Granada

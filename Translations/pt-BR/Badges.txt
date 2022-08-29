@@ -53,6 +53,6 @@ SCP:SL Ajudante
 SCP:SL Dublador
 SCP:SL Investidor da Fundação
 Northwood Diretor de Estúdio
-SCP:SL Assistende Diretor de Jogo
+SCP:SL Assistente Diretor de Jogo
 Northwood Suporte Técnico Supervisor
 Northwood Suporte Técnico Gerente

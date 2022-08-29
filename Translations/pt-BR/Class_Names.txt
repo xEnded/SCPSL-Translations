@@ -16,6 +16,6 @@ TUTORIAL
 Guarda da Instalação
 SCP-939-53
 SCP-939-89
-Atirador Insurgente do Caos
+Fuzileiro Insurgente do Caos
 Saqueador Insurgente do Caos
 Repressor Insurgente do Caos

@@ -55,6 +55,8 @@ it:
 ja: 
  - Translations/ja/*
  - Steam-Translations/**/*_japanese.vdf
+kk-KZ:
+ - Translations/kk-KZ/*
 ko: 
  - Translations/ko/*
  - Steam-Translations/Rich Presence/*_koreana.vdf

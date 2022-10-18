@@ -56,3 +56,4 @@ Northwood 스튜디오 감독
 SCP:SL 게임 감독 보조
 Northwood 기술 지원 관리자
 Northwood 기술 지원 매니저
+Northwood 시스템 관리 매니저

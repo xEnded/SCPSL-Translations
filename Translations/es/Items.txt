@@ -3,10 +3,10 @@
 2~Tarjeta de Supervisor de investigación
 3~Tarjeta de Gerente de zonas
 4~Tarjeta de Guardia de seguridad
-5~Tarjeta de Soldado raso de la MTF
+5~Tarjeta de Soldado raso del DM
 6~Tarjeta de Ingeniero de Contención
-7~Tarjeta de Sargento de la MTF
-8~Tarjeta de Capitan de la MTF
+7~Tarjeta de Sargento del DM
+8~Tarjeta de Capitan del DM
 9~Tarjeta de Administrador
 10~Aparato de los Insurgentes del Caos
 11~Tarjeta Nivel-O5
@@ -17,7 +17,7 @@
 16~Micro H.I.D.~Desintegrador Móvil de Alta Intensidad.
 17~SCP-500~La panacea.
 18~SCP-207~Aumenta tu velocidad de movimiento de una forma dolorosa.
-20~MTF-E11-SR
+20~DM-E11-FE
 21~Crossvec
 23~FSP-9
 24~Logicer

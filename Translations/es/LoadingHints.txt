@@ -3,10 +3,10 @@ Existen 4 zonas principales en las instalaciones: Zona de Contención Ligera, Zo
 Los Científicos y los Clase-D deben alcanzar la superficie para escapar.
 La Zona de Entrada tiene dos puertas, dichas puertas son la única ruta de acceso a la superficie. Necesitarás una tarjeta de acceso para abrirlas.
 Usar un ascensor es una forma fácil y rápida de escapar de la mayoría de SCPs.
-Los Clase-D que se escapen se unirán a la Insurgencia del Caos, del mismo modo, los Científicos se unirán a las fuerzas de la MTF.
+Los Clase-D que se escapen se unirán a la Insurgencia del Caos, del mismo modo, los Científicos se unirán a las fuerzas del Destacamento Móvil.
 La Adrenalina puede usarse para recargar de forma instantánea tu resistencia y darte ventaja en combate.
 Las radios tienen 4 configuraciones de alcance. Cuanto mayor sea el alcance, más rápido se drenará la batería.
-Las fuerzas de la MTF y la Insurgencia del Caos aparecen en lugares opuestos de la Superficie.
+Las fuerzas del Destacamento Móvil y la Insurgencia del Caos aparecen en lugares opuestos de la Superficie.
 La Ojiva Alfa mata todo lo que este dentro de la Instalación al ser detonada. Puede ser activada desde la Superficie.
 La secuencia de detonación de la Ojiva Alfa puede ser cancelada desde la sala de control en la Zona de Contención Pesada.
 La sala de la Intercom en la Zona de Entrada puede ser usada para transmitir un mensaje de voz para todos los jugadores.

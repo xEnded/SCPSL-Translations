@@ -1,6 +1,6 @@
 Es el cadáver de <b>[user]</b>, ¡era [class]!\n\nCausa de muerte: [cause]
 Recontenido.
-Vaporizado por el Silo Alfa.
+Vaporizado por la Ojiva Alfa.
 Parada de signos de vida repentinos. No tiene ningún golpe.
 Causa de muerte desconocida.
 Tiene varias quemaduras eléctricas de alto voltaje.

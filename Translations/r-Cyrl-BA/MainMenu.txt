@@ -25,11 +25,10 @@ ANTIALIASING
 Лагани режим рендеровања:\nКада искључено, графички квалиитет је лошији. Препоручено за лоше рачунаре.
 V-SYNC
 ПОВЕЖИ СЕ
-FPS
 ПОСТАВКЕ КВАЛИТЕТА
 Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
 MAIN MENU
-RENDER LIGHTSFPS
+RENDER LIGHTS
 MOTION BLUR
 SHADOW DISTANCE
 DETAILS

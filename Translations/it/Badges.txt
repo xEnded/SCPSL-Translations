@@ -56,3 +56,4 @@ Northwood Direttore dello studio
 SCP:SL Assistente del Direttore di gioco
 Northwood Supervisore del Supporto Tecnico
 Northwood Manager del Supporto Tecnico
+Northwood Manager Amministratore di sistema

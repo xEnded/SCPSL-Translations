@@ -85,6 +85,8 @@ ru:
  - Steam-Translations/**/*_russian.vdf
 sk: 
  - Translations/sk/*
+sr-Cyrl-BA:
+ - Translations/sr-Cyrl-BA/*
 th: 
  - Translations/th/*
  - Steam-Translations/**/*_thai.vdf

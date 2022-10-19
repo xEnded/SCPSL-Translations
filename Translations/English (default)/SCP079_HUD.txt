@@ -54,3 +54,14 @@ $LOCKDOWN$ now available - press $[key]$ to temporarily lock down all doors in a
 +[amount] EXP - Teammate's pursuit assist
 +[amount] EXP - Protection of teammate(s)
 +[amount] EXP - Prevented use of Micro H.I.D.
+CAMERA FEED ONLINE
+ZONE-WIDE BLACKOUT ([cost])
+$ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
+ZONE-WIDE BLACKOUT COOLDOWN
+BLACKOUT ALREADY ACTIVE
+BLACKOUT UNAVAILABLE FOR THIS ZONE
+TOTAL LIFEFORMS
+TARGETS
+SCP SUBJECTS
+CIVILIAN
+MILITARY

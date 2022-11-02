@@ -43,6 +43,6 @@ Pressione [key] para cancelar o arremesso.
 Alternar MIRAR
 Silenciar o bate-papo de espectador
 Ativar Redução de Ruído (recomendado)
-Autoático (Padrão)
+Automático (Padrão)
 Nenhum Microfone Detectado!
 DISPOSITIVO DE ENTRADA

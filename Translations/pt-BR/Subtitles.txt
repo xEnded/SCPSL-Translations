@@ -6,7 +6,7 @@ neutralizado com sucesso. Causa de neutralização não especificada.
 neutralizado por SCP-[scp].
 neutralizado com sucesso pelo Sistema de Segurança Automático.
 neutralizado com sucesso pela Ogiva Nuclear Alfa
-contido com sucesso por indivíduo do departamento científico.
+contido com sucesso por indivíduo do Departamento Científico.
 contido com sucesso por sujeito Classe-D.
 contido com sucesso pela Insurgência do Caos.
 SCP-[scp]

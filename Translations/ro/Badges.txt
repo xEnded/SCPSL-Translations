@@ -56,3 +56,4 @@ Northwood Director de Studio
 SCP:SL Asistent Director de Joc
 Northwood Supraveghetor Suport Tehnic
 Northwood Manager Suport Tehnic
+Northwood Manager De Administrare A Sistemului 

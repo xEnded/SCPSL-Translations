@@ -1,12 +1,14 @@
 name: Error Report
 description: File a translation error
-title: "[Bug]: "
+title: "[Bug]: Insert Title Here"
 labels: ["error/bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this report! (If this is a **game** bug, please report it here instead: https://support.scpslgame.com/bug-report )
+        Thanks for taking the time to fill out this report! 
+        (If this is a **game** bug, please report it here instead: https://support.scpslgame.com/bug-report )
+        Questions should go to our [Discussions](https://github.com/northwood-studios/SCPSL-Translations/discussions) page instead.
   - type: input
     id: contact
     attributes:

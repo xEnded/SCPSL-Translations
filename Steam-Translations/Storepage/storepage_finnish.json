@@ -16,7 +16,7 @@
 	"app[content][sysreqs][mac][req][soundcard]": "",
 	"app[content][sysreqs][mac][req][notes]": "",
 	"app[content][sysreqs][windows][min][osversion]": "Windows 8.1 or 10; 64 bittinen",
-	"app[content][sysreqs][windows][min][processor]": "Intel Core i3, 2 threads, 2 GHz",
+	"app[content][sysreqs][windows][min][processor]": "",
 	"app[content][sysreqs][windows][min][graphics]": "GeForce GT 720 1GB VRAM; DX11 tarvittu",
 	"app[content][sysreqs][windows][min][soundcard]": "",
 	"app[content][sysreqs][windows][min][notes]": "",

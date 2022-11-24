@@ -15,3 +15,4 @@ WORKSTATION IS SHUTTING DOWN
 SHOW SUMMARY
 CLOSE SUMMARY
 [Attachment] Customization
+Press [Key] to edit attachments.

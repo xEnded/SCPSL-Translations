@@ -28,3 +28,11 @@ Medical Hotkey
 Hide GUI
 Toggle Noclip Fog
 Grenade Hotkey
+Pause Menu
+Debug Log
+Free Look Mode
+Lock Door
+Release All Locks
+Blackout
+Lockdown
+Ping

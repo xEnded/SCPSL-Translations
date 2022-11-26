@@ -28,3 +28,11 @@ Skrót na przedmioty medyczne
 Schowaj interfejs
 Przełącz mgłę w noclipie
 Skrót na granat
+Menu pauzy
+Dziennik debugowania
+Tryb wolnego widoku
+Zablokuj drzwi
+Odblokuj wszystko
+Zgaś światła
+Zablokuj pomieszczenie
+Zaznacz lokację

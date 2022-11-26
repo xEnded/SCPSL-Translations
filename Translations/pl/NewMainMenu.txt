@@ -91,3 +91,4 @@ Ambient occlusion
 Światła wolumetryczne
 Bloom
 Wyświetlaj napisy
+Przewodnik

@@ -10,3 +10,5 @@ Usuń
 OK
 Więcej informacji
 SCP-939 używa mechaniki pozwalającej na nagrywanie kilku ostatnich sekund twojej rozmowy głosowej. Może być on odtwarzany przez SCP-939, aby zwabić do siebie pozostałych graczy.\nNagrania są automatycznie usuwane jeżeli opuścisz serwer, SCP-939 zginie lub gdy runda dobiegnie końca. Wyłączenie tej funkcji spowoduje usunięcie wszystkich nagrań twojego głosu.
+Nie można wypuścić obłoku w tym miejscu.
+Rozmiar obłoku jest za mały. Przytrzymaj klawisz dłużej.

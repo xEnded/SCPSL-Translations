@@ -17,3 +17,7 @@ Pozwól na używanie krótkich nagrań twojego głosu. Obejmuje to umiejętnoś�
 Zastosuj
 Wróć
 Naciśnij "[key]" i wejdź w "Ustawienia", aby zmienić.
+Wycisz żywych graczy
+Wycisz obserwatorów
+Wycisz lobby
+Wycisz czat globalny po zakończeniu rundy

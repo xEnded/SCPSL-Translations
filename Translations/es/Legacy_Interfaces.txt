@@ -1,19 +1,19 @@
 PUEDES DARLE ÓRDENES
 SIGUE SUS ÓRDENES
 MISMO NIVEL DE AUTORIDAD
-Clase-D escapados
+Clases-D escapados
 Científicos supervivientes
 Asesinados por SCP
-SCP Eliminados
-Silo Alfa
+Sujetos SCP eliminados
+Ojiva Alfa
 Detonado
 Sin usar
 La próxima ronda comenzará en [time] segundos.
 HABILIDAD ESPECIAL
-CREAR AGUJERO NEGRO
-USAR AGUJERO NEGRO
+CREAR AGUJERO
+USAR AGUJERO
 HAS MUERTO
 Has sido eliminado por
-como
+siendo
 Pasivo
 (oculto)

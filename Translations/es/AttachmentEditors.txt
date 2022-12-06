@@ -15,3 +15,4 @@ DESCONECTANDO ESTACIÓN DE TRABAJO
 VER DETALLES
 CERRAR DETALLES
 Personalizar [Attachment]
+Pulsa [Key] para editar los accesorios.

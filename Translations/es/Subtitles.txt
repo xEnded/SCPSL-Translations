@@ -12,7 +12,7 @@ contenido con éxito por la Insurgencia del Caos.
 SCP-[scp]
 contenido con éxito. Unidad de contención desconocida.
 contenido con éxito. Unidad de contención [designation].
-Extraviado en la Secuencia de Descontaminación.
+extraviado en la Secuencia de Descontaminación.
 [current] de [max] generadores activados.
 <split>Todos los generadores han sido activados con éxito.
 Sobrecarga en 3... 2... 1...

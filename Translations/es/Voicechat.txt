@@ -16,4 +16,8 @@ Grabaciones cortas
 Permite que la mecánica del juego utilice grabaciones cortas de tu voz. Esto incluye la habilidad "Con muchas voces" de SCP-939, que puede grabar y reproducir muestras cortas de voz de jugadores muertos. Todas las grabaciones se descartan en el momento en que abandonas el servidor, o cuando se reinicia la ronda.
 Aplicar configuración
 Regresar
-Presiona "[key]" y navega hasta "Ajustes" para ajustar.
+Presiona "[key]" y navega hasta "Ajustes" para configurar.
+Silenciar a jugadores con vida
+Silenciar a los demás espectadores
+Silenciar Lobby
+Silenciar Chat Global en el Resumen de la ronda

@@ -1,14 +1,14 @@
 0~Tarjeta de Conserje
 1~Tarjeta de Científico
-2~Tarjeta de Supervisor de investigación
-3~Tarjeta de Gerente de zonas
-4~Tarjeta de Guardia de seguridad
+2~Tarjeta de Supervisor de Investigación
+3~Tarjeta de Gerente de Zonas
+4~Tarjeta de Guardia de Seguridad
 5~Tarjeta de Soldado raso del DM
 6~Tarjeta de Ingeniero de Contención
 7~Tarjeta de Sargento del DM
 8~Tarjeta de Capitan del DM
 9~Tarjeta de Administrador
-10~Aparato de los Insurgentes del Caos
+10~Dispositivo de Acceso de los Insurgentes del Caos
 11~Tarjeta Nivel-O5
 12~Radio
 13~COM-15
@@ -16,15 +16,15 @@
 15~Linterna~¡Que se haga la luz!
 16~Micro H.I.D.~Desintegrador Móvil de Alta Intensidad.
 17~SCP-500~La panacea.
-18~SCP-207~Aumenta tu velocidad de movimiento de una forma dolorosa.
-20~DM-E11-FE
+18~SCP-207~Aumenta de forma perjudicia tu velocidad de movimiento.
+20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
 24~Logicer
 25~Granada de fragmentación~¡Boom!
 26~Granada cegadora~¡Ciega a tus enemigos!
 30~COM-18
-31~SCP-018~Superbola capaz de rebotar con eficiencia extrema.
+31~SCP-018~Súperbola capaz de rebotar con eficiencia extrema.
 32~SCP-268~Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
 33~Adrenalina~Aumenta temporalmente la resistencia.
 34~Analgésicos~Cura heridas menores.

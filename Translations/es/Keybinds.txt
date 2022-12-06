@@ -28,3 +28,11 @@ Atajo de Artículo Médico
 Ocultar Interfáz
 Alternar niebla en Noclip
 Atajo Granada
+Menú de Pausa
+Registro de Depuración
+Modo de vista libre
+Bloquear Puerta
+Desbloquear Todo
+Apagón
+Bloquear
+Ping

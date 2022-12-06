@@ -15,8 +15,8 @@ La piel amarillenta y un olor rancio sugieren muerte por envenenamiento.
 El veneno ha acabado contigo.
 Piel pálida y boca ensangrentada sugieren una hemorragia interna causada por ingerir una sustancia.
 SCP-207 ha acabado contigo.
-¡No debiste de coger más de dos!
-Te ha tostado un arco tesla.
+¡No debiste de sacar más de dos!
+Te ha electrocutado un arco tesla.
 Metralla y quemaduras de tercer grado causadas por una explosión.
 Has sido asesinado por una explosión cercana.
 Laceraciones masivas y excesiva pérdida de sangre.
@@ -25,8 +25,9 @@ Varios grandes y profundos mordiscos alrededor del cuerpo pueden ser observados.
 Se pueden apreciar contusiones y rasguños en el cuerpo.
 Múltiples heridas de balas de la munición [ammotype].
 Trauma fatal, el cuerpo está mutilado y machacado.
-Señales de trauma severo en ambos fémures indica que murió a causa de un fallo circulatorio.
-Has sido sacrificado para recontener a 106.
+Señales de trauma severo en ambos fémures indica que murió a causa de un traumatismo circulatorio.
+Has sido sacrificado para recontener a SCP-106.
 Asesinado automáticamente por fuego amigo.
 La piel fría y los dedos congelados sugieren que murió por hipotermia.
 Te has congelado hasta morir.
+Profundas laceraciones y rasguños presentes en el cuerpo.

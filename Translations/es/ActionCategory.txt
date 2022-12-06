@@ -1,0 +1,8 @@
+Juegabilidad
+Armas
+Movimentos
+Asignación de teclas
+Comunicación
+Sistema
+No vinculable
+SCP-079

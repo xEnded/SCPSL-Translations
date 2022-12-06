@@ -6,7 +6,7 @@ Experiencia obtenida:
 Cooperación
 Muerte asistida de Clase-D
 Muerte asistida de I. C.
-Muerte asistida de MTF
+Muerte asistida de D. M.
 Muerte asistida de Científico
 Muerte asistida de SCP
 PUERTAS BLOQUEADAS: [LOCKED_NUM]<size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
@@ -14,4 +14,4 @@ Interacciones generales
 ¡Estás siendo atacado!
 Se han marcado los generadores activos en el mapa
 PELIGRO
-SCPs{0}MTFs y Guardias{1}Científicos{2}Clase-D{3}Insurgentes del Caos{4}
+SCPs{0}Destacamento y Guardias{1}Científicos{2}Clase-D{3}Insurgentes del Caos{4}

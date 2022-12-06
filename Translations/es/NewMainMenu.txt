@@ -10,7 +10,7 @@ Historial
 Amigos
 Buscar servidores
 Crear servidor
-Volver a unirse
+Reingresar
 Conexión directa
 Recargar
 Ocultar partidas vacías
@@ -30,23 +30,23 @@ Sincronización vertical
 Límite de FPS
 Apagado
 Calidad de texturas
-Máxima cantidad de sangre
+Manchas
 Sombras
 Resolución de sombras
 Distancia de sombras
 Desenfoque de movimiento
 Corrección de color
-Anti Aliasing
-Modo de renderizado de luz
+Anti-Aliasing
+Renderización de luces
 Sonido global
 Efectos de sonido
 Chat de voz
 Música del menú
 Volumen de la interfaz
 Música del menú
-Atenuación rápida de la introducción
+Desvanecer rápido de la introducción
 Movimiento de cabeza
-Pulsar para alternar carrera
+Alternar carrera
 Mostrar valores exactos de vida
 Rich Presence
 Sala pública
@@ -86,8 +86,9 @@ ALQUILAR UN SERVIDOR
 CANCELAR
 Segundo
 Por jugar a nuestro juego!
-Barra de tareas flash al aparecer
+Flash en la barra de tareas al aparecer
 Oclusión ambiental
 Luces volumétricas 
 Bloom
-Activar subtítulos
+Subtítulos
+Guía Operativa

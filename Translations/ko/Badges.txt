@@ -28,7 +28,7 @@ SCP:SL 게임 디자인 팀장
 SCP:SL 게임플레이 프로그래밍 팀장
 SCP:SL 레벨 디자이너
 SCP:SL 파트너
-SCP:SL Patreon 지원자
+SCP:SL Patreon 후원자
 SCP:SL 품질 보증 책임자
 SCP:SL 음향 디자이너
 SCP:SL 게임 감독

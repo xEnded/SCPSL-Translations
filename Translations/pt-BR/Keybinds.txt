@@ -28,3 +28,11 @@ Tecla de atalho Médica
 Esconder GUI
 Alternar Neblina do Noclip
 Tecla de atalho de Granada
+Menu de Pausa
+Registro de Depuração
+Modo de Visão Livre
+Bloquear Porta
+Liberar Todos Bloqueios
+Blecaute
+Confinamento
+Ping

@@ -91,3 +91,4 @@ Oclusão de Ambiente
 Luzes Volumétricas
 Bloom
 Legendas
+Guia Operacional

@@ -59,9 +59,16 @@ BLECAUTE DE ZONA ([cost])
 $BLECAUTE DE ZONA$ disponível - next to zone labels on the $Facility Map$.
 BLECAUTE DE ZONA EM RECARGA
 BLECAUTE JÁ ATIVO
-BLECAUTE NÃO DISPONÍVEL PARA ESTA ZONA
+BLECAUTE INDISPONÍVEL PARA ESTA ZONA
 FORMAS DE VIDA TOTAIS
 ALVOS
 ANOMALIAS SCP
 CIVIL
 MILITAR
+USAR ALTO-FALANTE
+ACESSO AO ELEVADOR NEGADO
+SCP-079 não possui capacidade de combate ou movimento direto. Alternadamente, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito do seu HUD.
+Virtualmente Indestrutível:Três geradores são distribuidos na Zona de Contenção Pesada. Se todos eles estiverem ativados, você poderá ser recontido na sua câmara. Os geradores têm uma sequência de contagem regressiva que qualquer jogador pode interromper pressionando o botão "CANCEL" no gerador.
+Acesso Ilimitado:Você pode manipular inúmeros sistemas da instalação para assistir os SCPs. O canto superior direito da tela mostra quais habilidades estão disponíveis. Essas habilidades custam energia auxiliar (AP) para usar, que se regenera com o tempo.
+Profunda Aprendizagem:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência para um novo nível de acesso. Cada novo nível fornece mais AP e concede a você novas habilidades.
+Supervisão:Estar em todos os lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode indicar locais (Ping), pessoas e objetos de interesse, permitindo que você ajude no massacre.

@@ -16,4 +16,8 @@ Gravações curtas
 Permita que mecânicas do jogo usem gravações curtas de sua voz. Isso inclui a habilidade "Com Muitas Vozes" de SCP-939, que pode gravar e reproduzir amostras curtas de vozes de jogadores mortos. Todas as gravações são descartadas no momento em que você sai do servidor ou quando a rodada é reiniciada.
 Aplicar opções
 Retornar
-Pressione "[key]" e navegue pelas "Opções" para ajustar
+Pressione "[key]" e navegue pelas "Opções" para ajustar.
+Silenciar jogadores vivos
+Silenciar outros espectadores
+Silenciar lobby
+Silenciar o bate-papo global do resumo da rodada

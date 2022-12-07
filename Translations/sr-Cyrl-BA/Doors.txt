@@ -5,6 +5,6 @@
 <color=red>ГРЕШКА</color>
 <color=red>ПРИСТУП ОДБИЈЕН</color>
 <color=green>ПРИСТУП ОДОБРЕН</color>
-<color=#07A2FF>КАРТИЦА ПОТРЕБНА</color>
+<color=#07A2FF>ПОТРЕБНА КАРТИЦА</color>
 <color=orange>МОЛИМ ПРОЂИТЕ</color>
 <color=orange>ЗАТВАРАЊЕ</color>

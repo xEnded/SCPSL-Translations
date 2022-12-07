@@ -1,16 +1,16 @@
 <size=80>БИЛИ СТЕ ИЗБАЧЕНИ</size>\nСервер је био форсиран да прекине весу.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nThe specified host is not available.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nThe specified connection ID does not exist.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nThe specified channel does not exist.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nServer is full.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nReceived wrong packet.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nConnection lost (timed out).
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nConnection lost (timed out).
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nOperation is not supported.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nYour game version is different from the server.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nInvalid server config.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nThe address is invalid or could not be resolved.
-<size=80>ВЕЗА ПРЕКИНУТА</size>\nAn unexpected problem has occurred!
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nСпецифицирани сервер није доступан.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nСпецифицирани ID конекције није доступан.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nСпецифицирани канал није доступан.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nСервер је пун, нема мјеста.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nДобио погрешан пакет.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nКонекција изгубљена(закаснио).
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nКонекција изгубљена (закаснио).
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nОперација није подржана.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nВаша верзија игре је другачија од сервера.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nНеправилна конфигурација сервера.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nАдреса није добро укуцана или не постоји.
+<size=80>ВЕЗА ПРЕКИНУТА</size>\nНевиђени проблем се десио.
 <size=80>Молим сачекајте</size>\n<size=35>Успостављање везе...</size>
 <size=80>РЕСТАРТ РУНДЕ</size>\n<size=35>Рунда се рестартира...</size>
 <size=80>МОЛИМ САЧЕКАЈТЕ</size>\n<size=35>Учитавање туторијала...</size>

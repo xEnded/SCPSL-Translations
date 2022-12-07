@@ -52,3 +52,8 @@ Northwood PRディレクター
 SCP:SL ヘルパー
 SCP:SL 声優
 SCP:SL 財団投資家
+Northwood スタジオディレクター
+SCP:SL ゲームディレクター補佐
+Northwood 技術サポートスーパーバイザー
+Northwood 技術サポートマネージャー
+Northwood システム管理マネージャー

@@ -28,3 +28,11 @@ Tasto di scelta rapida dei Medicinali
 Nascondi la GUI (Graphical User Interface)
 Togli la nebbia nella Noclip-mode
 Tasto di scelta rapida delle Granate
+Menu di pausa
+Log di Debug
+Modalità Free Lock
+Bloccare una porta
+Sbloccare tutte le porte
+Blackout
+Isolamento
+Segnala la posizione

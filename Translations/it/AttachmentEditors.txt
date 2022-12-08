@@ -15,3 +15,4 @@ LA WORKSTATION SI STA SPEGNENDO
 MOSTRA IL RIEPILOGO
 CHIUDI IL RIEPILOGO
 Personalizzazione: [Attachment]
+Premi [Key] per modificare gli accessori

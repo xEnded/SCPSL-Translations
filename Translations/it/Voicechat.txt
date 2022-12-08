@@ -17,3 +17,7 @@ Consenti alle meccaniche di gioco di utilizzare brevi registrazioni della tua vo
 Applica le impostazioni
 Ritorna
 Premi "[key]" e nagiva su "Impostazioni" per modificarle.
+Silenzia tutti i giocatori in vita
+Silenzia gli altri spettatori
+Silenzia la lobby
+Silenzia la chat globale della fine del round

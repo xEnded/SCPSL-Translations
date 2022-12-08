@@ -91,3 +91,4 @@ Occlusione ambientale
 Luci volumetriche
 Sfocatura
 Mostra sottotitoli
+Guida operativa

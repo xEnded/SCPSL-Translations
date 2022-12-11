@@ -18,3 +18,22 @@ Focus:Devoting your full energy to your senses, you can see prey from farther aw
 Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.  
 With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
 Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
+Return
+Place Mimic Point
+Override position of Mimicry's sounds source
+Remove Mimic Point
+Make all sounds come from your current location
+Mimic Point set!
+Mimic Point removed!
+Mimic Point destroyed. You're out of range.
+Stolen Voices
+Play back your victims' voices
+Environmental Mimicry
+Mimic various sounds to lure out targets
+(Cooldown: [time]s)
+Footsteps
+Impersonation
+Shooting
+Other
+Previous Menu
+Next Menu

@@ -67,3 +67,8 @@ CYWILI
 SIŁ ZBROJNYCH
 UŻYJ GŁOŚNIKA
 ODMOWA DOSTĘPU DO WINDY
+SCP-079 nie ma możliwości bezpośredniej walki lub ruchu. Zamiast tego widzisz świat przez kamery znajdujące się w każdym pomieszczeniu. Wszystkie dostępne umiejętności są wyświetlane w prawym górnym rogu twojego ekranu.
+Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Nadzoru. Gdy zostaną aktywowane, będziesz mógł zostać zabezpieczony w swojej celi przechowawczej. Każdy generator ma sekwencję odliczania, która może zostać przerwana poprzez kliknięcie przycisku "ANULUJ" na generatorze.
+Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
+Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
+Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.

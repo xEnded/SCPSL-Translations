@@ -97,3 +97,5 @@ Flashes the taskbar when you spawn while the game is not in focus.
 Smoothes lines and removes visual distortions.
 Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
 Projected textures such as bullet holes or blood splatter.
+Toggle Dark Mode
+Toggle to change some bright elements to their dark-themed versions.

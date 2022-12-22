@@ -28,3 +28,11 @@ Raccourci Soin
 Masquer l'Interface
 Brouillard en Noclip
 Raccourci Grenade
+Menu Pause
+Journal de Débogage
+Mode Mouvement Libre
+Verrouiller la Porte
+Déverrouiller Toutes les Portes
+Blackout
+Confinement
+Ping

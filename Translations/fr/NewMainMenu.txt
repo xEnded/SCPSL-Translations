@@ -24,13 +24,13 @@ Autres
 Mode fenêtré
 Plein écran exclusif
 Fenêtre sans bordure
-Fenêtre Étirée
+Fenêtre étirée
 Fenêtré
-Syncronisation Verticale
-Limite Images/s
+Syncronisation verticale
+Limite images/s
 Désactivé
 Qualité des textures
-Decals (Sang/Balles)
+Decals (sang/balles)
 Ombres
 Qualité des ombres
 Distance des ombres
@@ -57,16 +57,16 @@ Langue
 Menu principal
 Se connecter
 Retour
-Cette modification nécessitera un rechargement. \nRecharger le menu maintenant?
+Cette modification nécessitera un rechargement.\nRecharger le menu maintenant ?
 Oui
 Non
-Êtes-vous sûr de vouloir quitter?
+Êtes-vous sûr de vouloir quitter ?
 Résolution d'écran
 Masquer les IP
 Salut {username} !
 Crédits
 AUTHENTIFICATION
-Connexion aux serveurs centraux ...
+Connexion aux serveurs centraux...
 <color=green>Connexion établie</color>
 <color=red>Échec de la connexion (Vérifiez dans la console)</color>
 <color=red>Échec de l'authentification Steam (Vérifiez dans la console)</color>
@@ -86,8 +86,9 @@ LOUER UN SERVEUR
 ANNULER
 Seconde
 Pour avoir joué à notre jeu !
-Flash de l'Icône au spawn (Barre des tâches)
-Occlusion Ambiante
-Lumières Volumétriques
+Flash de l'icône au spawn (Barre des tâches)
+Occlusion ambiante
+Lumières volumétriques
 Flou lumineux
 Activer les sous-titres
+Guide opérationnel

@@ -97,3 +97,5 @@ Gdy się odrodzisz, ikona gry na pasku zadań się podświetli.
 Wygładza krawędzie oraz usuwa wizualne zniekształcenia.
 Synchronizuje ilość klatek w grze do częstotliwości odświeżania monitora.
 Wyświetla efekty dziur po kulach lub plamy krwi.
+Tryb ciemny
+Gdy włączony, zmienia niektóre jasne elementy na ich ciemniejsze wersje.

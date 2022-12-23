@@ -1,6 +1,6 @@
 Cukierków
 Tęczowy cukierek
-Jest to twardy kryształkowy cukierek, wypełniony wieloma smakami.
+Jest to twardy kryształowy cukierek, wypełniony wieloma smakami.
 Przyznaje wiele mniejszych efektów, doliczając regenerację zdrowia, wzmocnienie oraz AHP.
 Żółty cukierek
 Przytłaczający zapach cytryny sprawia, że się wzdrygasz.
@@ -15,7 +15,7 @@ Zielony cukierek
 Nieprzyjemny, ziołowy zapach jest wydzielany z cukierka.
 Przyznaje długą regenerację zdrowia oraz tymczasową odporność na większość efektów.
 Niebieski cukierek
-Ma delikatny i słodki zapach, przypominający trochę marshmallow.
+Ma delikatny i słodki zapach, przypominający trochę słodką piankę.
 Przyznaje tymczasową barierę.
 Różowy cukierek
 Zapach truskawki jest tak delikatny jak jego wygląd.

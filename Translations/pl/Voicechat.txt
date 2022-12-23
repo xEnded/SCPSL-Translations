@@ -1,5 +1,5 @@
-WYCISZONY ADMINISTRACYJNIE
-GLOBALNIE WYCISZONY
+WYCISZONY PRZEZ ADMINISTRACJĘ
+WYCISZONY GLOBALNIE
 NIEUWIERZYTELNIONY
 ZMIEŃ USTAWIENIA PRYWATNOŚCI
 Twój mikrofon jest wyłączony przez wybrane ustawienia prywatności.
@@ -11,7 +11,7 @@ Akceptuj wszystko
 Akceptuj
 Odmów
 Przechwytywanie mikrofonu
-Pozwól na przechwytywanie twojego mikrofonu i jego transmitowanie do innych graczy podczas trzymania klawisza czatu głosowego. Podczas transmisji, ikonka mikrofonu pokaże się na dole ekranu. Twój głos nigdy nie będzie transmitowany bez twojej wiedzy. 
+Pozwól na przechwytywanie twojego mikrofonu i jego transmitowanie do innych graczy podczas trzymania klawisza czatu głosowego. Podczas transmisji, ikonka mikrofonu pokaże się na dole ekranu. Twój głos nigdy nie będzie transmitowany bez twojej wiedzy.
 Krótkie nagrania
 Pozwól na używanie krótkich nagrań twojego głosu. Obejmuje to umiejętność SCP-939 "Z Wieloma Głosami", która może nagrywać i odtwarzać krótkie nagrania głosów zabitych graczy. Wszystkie nagrania zostaną usunięte, gdy opuścisz serwer lub runda dobiegnie końca.
 Zastosuj

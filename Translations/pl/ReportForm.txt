@@ -2,6 +2,6 @@ Zgłoś gracza
 Gracz:\nID Gracza:\n\nOpis:
 Anuluj
 Łamanie regulaminu serwera
-Cheatowanie lub atak na serwer
+Oszukiwanie lub atak na serwer
 WYSYŁANIE
 Proszę czekać...

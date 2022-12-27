@@ -37,7 +37,7 @@
 ผู้พัฒนาระบบ Anti-Cheat SCP:SL
 ผู้ทดสอบการประกันคุณภาพ SCP:SL
 หัวหน้าแผนกประกันคุณภาพ SCP:SL
-SCP:SL Twitch Subscriber
+ผู้สนับสนุน SCP:SL ทาง Twitch
 ผู้จัดการด้านเสียง SCP:SL
 ผู้ประสานงานคำติชม Northwood
 หัวหน้าฝ่ายตรวจสอบความถูกต้อง Northwood
@@ -52,3 +52,8 @@ SCP:SL Twitch Subscriber
 ผู้ช่วย SCP:SL
 นักพากย์เสียง SCP:SL
 ผู้ลงทุนทางสถาบัน SCP:SL
+ผู้อำนวยการสตูดิโอ Northwood
+ผู้ช่วยผู้กำกับเกม SCP:SL
+หัวหน้าฝ่ายช่วยเหลือทางเทคนิค Northwood
+ผู้จัดการฝ่ายช่วยเหลือทางเทคนิค Northwood
+ผู้จัดการดูแลระบบ Northwood

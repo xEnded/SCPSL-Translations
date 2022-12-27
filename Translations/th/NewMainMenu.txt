@@ -91,3 +91,4 @@ Ambient Occlusion
 Volumetric Lights
 Bloom
 เปิดคำบรรยาย
+คู่มือการเล่น

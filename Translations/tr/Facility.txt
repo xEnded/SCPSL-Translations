@@ -42,3 +42,7 @@ NİŞAN ALMA HASSASİYETİ AZALTMASI
 Fırlatmayı iptal etmek için [key] tuşuna bas.
 Nişan almayı bas-çek
 İzleyici Sohbetini Sustur
+Gürültü Azaltmayı Etkinleştir (önerilir)
+Otomatik (Sistem Varsayılanı)
+Mikrofon Algılanamadı!
+GİRİŞ AYGITI

@@ -14,8 +14,8 @@ Dokuz-Kuyruklu Tilki Albay
 Dokuz-Kuyruklu Tilki Nefer
 Eğitim
 Tesis Görevlisi
-SCP-939-53
-SCP-939-89
+SCP-939
+-
 Kaos İsyancısı Piyade
 Kaos İsyancısı Yağmacı
 Kaos İsyancısı Akıncı

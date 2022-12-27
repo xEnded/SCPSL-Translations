@@ -28,3 +28,11 @@ Tıbbi Eşya Kısayolu
 Oyun Arayüzünü Gizle
 Noclip Sisini Değiştir
 Bomba Kısayolu
+Menü
+Hata Günlüğü
+Serbest Bakış Modu (SCP-079)
+Kapıyı Kilitle (SCP-079)
+Tüm Kilitleri Aç (SCP-079)
+Karartma (SCP-079)
+Karantina (SCP-079)
+İşaretle (SCP-079)

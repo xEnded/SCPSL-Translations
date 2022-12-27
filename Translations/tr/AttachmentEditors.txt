@@ -14,3 +14,5 @@ GÜÇ KESİLİYOR
 İŞ İSTASYONU KAPANIYOR
 AÇIKLAMAYI GÖSTER
 AÇIKLAMAYI KAPAT
+[Attachment] Özelleştirme
+Eklentileri düzenlemek için [Key] tuşuna basınız.

@@ -65,3 +65,10 @@ FORME DE VIAȚĂ TOTALE
 SUBIECTE SCP
 CIVILI
 MILITAR
+UTILIZAȚI SPEAKER
+ACCES LA LIFT NEGAT
+SCP-079 nu are capacități directe de luptă sau mișcare. În schimb, priviți lumea prin camerele de securitate găsite în fiecare cameră. Toate abilitățile disponibile sunt listate în colțul din dreapta sus al HUD-ului tău.
+Practic Indestructibil:Trei generatoare apar în Heavy Containment. Dacă toate sunt deblocate și activate, poți fi distrus din camera ta. Generatoarele au o secvență de numărătoare inversă pe care orice jucător o poate întrerupe apăsând butonul „CANCEL” de pe generator.
+Acces Nelimitat:Puteți manipula numeroase sisteme din facilitate pentru a-i ajuta pe ceilalți SCP. Colțul din dreapta sus a ecranului arată ce abilități sunt disponibile. Aceste abilități costă puterea auxiliară (AP) de utilizat, care se regenerează în timp.
+Învățare Profundă:Asistența la rezilieri sau efectuarea de acțiuni utile pentru celelalte SCP-uri vă va oferi experiență către un nou nivel de acces. Fiecare nivel nou oferă mai mult AP și îți oferă noi abilități.
+Overwatch: A fi peste tot și nicăieri îți oferă o perspectivă unică. Puteți da ping la locații, oameni și obiecte de interes, permițându-vă să asistați la sacrificarea oamenilor.

@@ -91,3 +91,4 @@ Ocluzie Ambientală
 Lumini Volumetrice
 Bloom
 Toggle Subtitrări
+Ghid Operațional

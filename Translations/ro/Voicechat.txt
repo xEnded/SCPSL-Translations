@@ -17,3 +17,7 @@ Permite mecanicilor de joc să folosească înregistrări scurte ale vocii tale.
 Aplicați Setările
 Înapoi
 Apăsați "[key]" și navigați la "Setări" pentru a ajusta.
+Mutează jucătorii în viață
+Muteaza alți spectatori
+Mutează lobby-ul
+Mutează sunetul rezumatului chatului global

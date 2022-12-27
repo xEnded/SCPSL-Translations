@@ -28,3 +28,11 @@ Tastă Rapidă Medical
 Ascunde GUI
 Toggle Ceață Noclip
 Tastă Rapidă Grenadă
+Meniu pauză
+Jurnal de Depanare
+Aspect Free-Look
+Încuie Ușă
+Descuie Totul
+Pană de Curent
+Izolare
+Ping

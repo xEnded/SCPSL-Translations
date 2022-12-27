@@ -97,3 +97,5 @@ Pisca a barra de tarefas quando você gera enquanto o jogo não está em foco.
 Suaviza linhas e remove distorções visuais.
 Sincroniza a taxa de quadros do jogo com a taxa de atualização do seu monitor para impedir o "screen tearing".
 Texturas projetadas, como buracos de bala ou respingos de sangue.
+Ativar Modo escuro
+Ative para alterar alguns elementos claros para suas versões com um tema escuro.

@@ -15,4 +15,4 @@ A ESTAÇÃO DE TRABALHO ESTÁ DESLIGANDO
 MOSTRAR RESUMO
 FECHAR RESUMO
 Customização de [Attachment] 
-Pressione [key] para editar acessórios.
+Pressione [Key] para editar acessórios.

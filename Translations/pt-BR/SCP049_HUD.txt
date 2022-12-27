@@ -19,3 +19,5 @@ O Chamado do Doutor:Você sinaliza sua localização para sua horda de zumbis. C
 Sem Desperdício & Escassez:Seus instintos médicos não carecem de eficiência; você pode reviver o curado repetidamente para proporcionar-te mais conhecimento. Não é todo dia que os mortos ressuscitam duas vezes.
 Sede de Sangue Lobotomizada:Sua mente foi removida à força, deixando você apenas com violência. Você se vê perseguindo humanos cada vez mais rápido enquanto os procura …
 Voracidade:A cura não é totalmente sem benefícios. Você pode regenerar sua carne usando a massa corporal de qualquer cadáver próximo. No entanto, não há compartilhamento, portanto, certifique-se de ser o primeiro à chegar ao banquete.
+Reviver
+Segure [key]

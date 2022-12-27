@@ -1,6 +1,6 @@
-Juegabilidad
+Jugabilidad
 Armas
-Movimentos
+Movimento
 Asignación de teclas
 Comunicación
 Sistema

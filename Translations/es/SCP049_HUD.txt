@@ -19,3 +19,5 @@ La Llamada del Médico: Señalas tu ubicación al resto del equipo curado. A med
 Útil , Inútil: Tu instinto médico no carece de eficacia; puedes revivir a los curados una y otra vez para obtener más información. No todos los días los muertos resucitan dos veces.
 Lobotomía Sanguinaria: Tu mente fue extraída a la fuerza, dejando solo la violencia. Te encuentras persiguiendo a los humanos cada vez más rápido mientras los persigues ...
 Voracidad: La cura no carece totalmente de beneficios. Puedes regenerar tu cuerpo utilizando la carne de cualquier cadáver cercano. Eso sí, no se puede compartir, así que asegúrate de ser el primero en llegar al festín.
+Revivir
+Mantener [key]

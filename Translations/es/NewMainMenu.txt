@@ -30,7 +30,7 @@ Sincronización vertical
 Límite de FPS
 Apagado
 Calidad de texturas
-Manchas
+Texturas decals
 Sombras
 Resolución de sombras
 Distancia de sombras
@@ -44,7 +44,7 @@ Chat de voz
 Música del menú
 Volumen de la interfaz
 Música del menú
-Desvanecer rápido de la introducción
+Desvanecer rápido de la intro.
 Movimiento de cabeza
 Alternar carrera
 Mostrar valores exactos de vida
@@ -88,7 +88,7 @@ Segundo
 Por jugar a nuestro juego!
 Flash en la barra de tareas al aparecer
 Oclusión ambiental
-Luces volumétricas 
+Luces volumétricas
 Bloom
 Subtítulos
 Guía Operativa

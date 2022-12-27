@@ -19,7 +19,7 @@ Chat de Voz Alternativo
 Noclip
 Consola
 Atajo Tarjeta de Acceso
-Inspeccionar 
+Inspeccionar
 Percutor del revólver
 Lanzar objeto
 Atajo de Arma Primaria

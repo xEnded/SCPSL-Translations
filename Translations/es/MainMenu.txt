@@ -97,3 +97,5 @@ Hace parpadear el icono del juego de la barra de herramientas cuando reapareces 
 Suaviza las líneas y elimina las distorsiones visuales.
 Sincroniza los frames del juego con los de tu monitor.
 Proyecta texturas como por ejemplo las manchas de sangre o los agujeros de bala.
+Modo Oscuro
+Cambia algunos elementos brillosos por versiones oscuras.

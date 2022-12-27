@@ -1,5 +1,5 @@
 Puedes desarmar a un jugador interactuando con el mientras llevas un arma en tus manos.
-Existen 4 zonas principales en las instalaciones: Zona de Contención Ligera, Zona de Contención Pesada, Zona de Entrada y la Superficie. 
+Existen 4 zonas principales en las instalaciones: Zona de Contención Ligera, Zona de Contención Pesada, Zona de Entrada y la Superficie.
 Los Científicos y los Clase-D deben alcanzar la superficie para escapar.
 La Zona de Entrada tiene dos puertas, dichas puertas son la única ruta de acceso a la superficie. Necesitarás una tarjeta de acceso para abrirlas.
 Usar un ascensor es una forma fácil y rápida de escapar de la mayoría de SCPs.

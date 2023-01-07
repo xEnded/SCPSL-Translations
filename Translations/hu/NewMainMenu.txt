@@ -27,7 +27,7 @@ Keret nélküli ablak
 Teljes képernyős ablak
 Ablakos mód
 V-Sync
-FPS Limit
+FPS Korlát
 Kikapcsolva
 Textúra minősége
 Matricák
@@ -38,7 +38,7 @@ Elmosódás
 Színkorrekció
 Antianalízis
 Fényvisszaverési mód
-Főhangerő
+Fő hangerő
 Hangeffektek
 Hangos csevegés
 Menü zenéje
@@ -61,10 +61,10 @@ Ez a változtatás újraindítást igényel.\nÚjratöltöd a menüt most?
 Igen
 Nem
 Biztosan ki szeretnél lépni?
-Képernyő felbontása
+Képernyőfelbontás
 IP elrejtése
 Üdv újra, {username}!
-Stáb
+Készítők
 HITELESÍTÉS
 Csatlakozás a szerverekhez...
 <color=green>A kapcsolat létrejött</color>
@@ -72,7 +72,7 @@ Csatlakozás a szerverekhez...
 <color=red>Steam hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
 <color=red>Discord hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
 Kikapcsolva
-{0} másodperc
+másodperc
 Holttestek törlési ideje
 Steam Profil megjelenítése
 Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha a játékoslistán lévő ikonra kattintanak.
@@ -91,3 +91,4 @@ Környezeti Elzáródás
 Volumetrikus Fények
 Ragyogás
 Feliratok Kapcsolása
+Használati Útmutató

@@ -4,9 +4,9 @@ ALAPÍTVÁNY NYERT
 INSURGENCY NYERT
 DÖNTETLEN
 Az elszökött alanyok lerohanták a létesítményt. A vészhelyzeti segélykérés blokkolva lett.
-A biztonságot fenyegető összes veszélyt semlegesítettek. Site-02 ismét biztonságos. Ez a létesítmény újra biztonságos.
+A biztonságot fenyegető összes veszélyt semlegesítettek. Site-02 ismét biztonságos.
 Az Alapítvány biztonsági jelenléte meg lett szüntetve. Az ügynökök készen állnak a további rendelkezésekre.
-Site-02 bizonytalan felügyelet alatt áll. A nyertes meghatározatlan marad.
+Site-02 biztos felügyelet alatt áll, de nem költségtelenül. A nyertes nincs meghatározva.
 [summary_d_escaped] d-osztályú szökött meg
 [summary_s_escaped] tudós élte túl
 Az Alpha Robbanófej detonációja [summary_warhead_kills] lényt likvidált.

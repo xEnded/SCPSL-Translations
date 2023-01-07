@@ -30,15 +30,19 @@ csatlakozott
 Elmenekültél egy Tudósként, és csatlakoztál az MTF-hez.
 Elmenekültél eg D-Osztályúként, és csatlakoztál a Chaos Insurgency-hez.
 EZ VAGY:
-Ennyi idő alatt szöktél el: {0} perc és {1} másodperc
+[escape_minutes] perc [escape_seconds] másodperc alatt szöktél meg
 Várj [time]-t, mielőtt újra használhatod a következő tárgyat: [item].
-NYOMD MEG AZ <color=white><b>F1</b></color>-ET TOVÁBBI INFORMÁCIÓKÉRT
+Segítségért nyomd meg: <color=yellow><b>F1</b></color>
 Meg lettél bilincselve.\n<size=40>Kövesd az utasításokat, vagy kérj segítséget a társaidtól.</size>
 A Nine-Tailed Fox sikeresen foglyul ejtett téged.\nMivel a létesítményben eggyel kevesebb veszélyforrás van, megerősödtek.
 A Chaos Insurgency fogságba ejtett téged.\nElőnyre tettek szert az általad kiadott információkból.
 A KÖR <color=yellow>{0}</color> másodpercen belül indul
 A KÖR KEZDETE <color=#FF5050>SZÜNETEL</color>
 CÉLZÁSI ÉRZÉKENYSÉG CSÖKKENTÉS
-Nyomd meg a(z) [key]-t, hogy visszavond a dobást.
+Nyomd meg a(z) [key]-t dobás elvetéséhez.
 ADS Kapcsolása
-Szemlélődő Csevegés Némítása
+Szemlélődő csevegés némítása
+Zajcsökkentés engedélyezése (ajánlott)
+Automatikus (alapértelmezett)
+Nem található mikrofon.
+BEMENETI ESZKÖZ

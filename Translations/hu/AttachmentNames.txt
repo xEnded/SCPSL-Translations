@@ -4,7 +4,7 @@ Pont Irányzék~Nagyítás nélküli Reflex irányzék, amely kis megvilágítot
 Holografikus Irányzék~Nagyítás nélküli, holografikus célkereszttel rendelkező irányzék. A közelharcban a leghatékonyabb.
 Éjjellátó Irányzék~Éjjellátó készülékkel kiegészített teleszkópos irányzék. Nehéz, viszont hatékony minden fényviszonyban.
 Lőszerszámláló Irányzék~Fémirányzék beszerelt lőszerszámláló készülékkel.
-Teleszkópikus Irányzék~Nehéz látóeszköz, optikai nagyítást biztosít. Tökéletes nagy hatótávolságra, de korlátozza az általános észlelést.
+Teleszkopikus Irányzék~Nehéz látóeszköz, optikai nagyítást biztosít. Tökéletes nagy hatótávolságra, de korlátozza az általános észlelést.
 Alapértelmezett Puskatus~Alapértelmezett puskatus, amely jobb irányítást biztosít a lőfegyvernek célzás közben.
 Bővített Puskatus~Jobb irányítást biztosít a lőfegyvernek célzás közben, de növeli a felszerelési időt.
 Visszahajtott Puskatus~Kompaktabbá teszi a lőfegyvert, ami növeli a mobilitást.

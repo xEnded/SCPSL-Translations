@@ -97,3 +97,5 @@ Kapcsolja a feliratokat CASSIE közleményeknél.
 Kisimítja a vonalakat, és eltünteti a vizuális torzítást.
 Szinkronizálja a játék FPS-ét a monitorod frissítési sebességével, hogy elkerülje a "screen tearing"-et ("képernyőszakadás").
 Vetített textúrák, mint golyónyomok és vérfoltok.
+Sötét Mód Kapcsolása
+Kapcsold be, hogy bizonyos fényes elemeket a sötét módú verziójukra változtasd.

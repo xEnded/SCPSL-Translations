@@ -52,3 +52,8 @@ Northwood Közkapcsolat Rendező
 SCP:SL Segítő
 SCP:SL Szinkronszínész
 SCP:SL Alapítvány Befektető
+Northwood Studio Rendező
+SCP:SL Játékrendező Asszisztens
+Northwood Tech Support Felügyelő
+Northwood Tech Support Menedzser
+Northwood Rendszeradminisztrációs Menedzser

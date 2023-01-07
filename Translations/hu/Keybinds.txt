@@ -28,3 +28,11 @@ Orvosi Gyorsbillentyű
 GUI Eltüntetése
 Noclip Köd Kapcsolása
 Gránát Gyorsbillentyű
+Szünet Menü
+Hibakeresési Napló
+Szabad Körbenézés
+Ajtó Zárása
+Minden Lezárás Feloldása
+Áramszünet
+Lezárás
+Megjelölés

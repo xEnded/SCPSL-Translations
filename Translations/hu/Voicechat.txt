@@ -1,3 +1,23 @@
 NÉMÍTVA ADMIN ÁLTAL
 GLOBÁLISAN LE VAGY NÉMÍTVA
 NEM VAGY HITELESÍTVE
+ADATVÉDELMI BEÁLLÍTÁSOK MÓDOSÍTÁSA
+A mikrofonod ki lett kapcsolva az adatvédelmi beállításaid miatt.
+Hangos Csevegés Adatvédelmi Beállítások
+Ez a játék hangos csevegést használ. A push-to-talk (beszédhez-tartsd-lenyomva) gombok (alapértelmezett "Q" és "V") használata fel fogja venni a mikrofon bemenetét és továbbítja a többi felhasználónak, akik a szerverhez kapcsolódtak.\nEgyes játékfunkciók ideiglenesen tárolhatnak rövid részfelvételeket a továbbításodból, amik automatikusan kitörlődnek, miután elhagyod a szervert.
+Összes letiltása (kikapcsolja a mikrofonfelvételt)
+Beállítások személyre szabása
+Összes elfogadása
+Elfogad
+Letilt
+Mikrofonfelvétel
+Engedélyezi, hogy a játék felvegye a mikrofonbemenetet és továbbítsa a többi felhasználó számára, amikor a push-to-talk (beszédhez-tartsd-lenyomva) gombok le vannak nyomva. Egy mikrofon ikon lesz látható a képernyő alján, jelezve az aktív sugárzást. A játék soha nem fogja sugározni, vagy felvenni a mikrofonbemenetet, amikor a mutató nem látható.
+Rövid Felvételek
+Engedélyezi, hogy a játék rövid felvételeket használjon a hangodból. Ebbe beletartozik SCP-939 "Számtalan Hangon" képessége, ami felveheti és visszajátszhatja a megölt játékosok hangjainak rövid mintáját. Minden felvétel törlésre kerül abban a pillanatban, amint elhagyod a szervert, vagy amikor a kör újraindul.
+Alkalmaz
+Vissza
+Szabályozáshoz nyomd meg: "[key]" és navigálj a "Beállítások"-hoz.
+Élő játékosok némítása
+Többi szemlélődő némítása
+Lobby némítása
+Kör összefoglaló globális csevegés némítása

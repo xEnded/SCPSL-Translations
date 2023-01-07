@@ -14,3 +14,5 @@ LEÁLLÍTÁS
 A MUNKAÁLLOMÁS LEÁLL
 ÖSSZEGZÉS MUTATÁSA
 ÖSSZEGZÉS BEZÁRÁSA
+[Attachment] Testreszabása
+Tartozékok módosításához nyomd meg: [Key]
